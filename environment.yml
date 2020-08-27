@@ -4,5 +4,7 @@ dependencies:
   - numpy
   - pip:
     - pandas
+    - pingouin
     - matplotlib
     - scipy
+    - seaborn
