@@ -1,0 +1,8 @@
+name: RMT
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - pandas
+    - matplotlib
+    - scipy
